@@ -111,14 +111,12 @@ def h3():
       '''
 def desenho():
     return'''
-    █████████ v2
-    █▄█████▄█
-    █▼▼▼▼▼
-    █
     Beef-XSS + Ngrok
-    █▲▲▲▲▲
-    █████████
-    ██ ██'''
+
+                  )\._.,--....,'``.   
+    .b--.        /;   _.. \   _\  (`._ ,.
+   `=,-,-'~~~   `----(,_..'--(,_..'`-.;.' 
+'''
 
 def beef():
     return'''                                      ▄
@@ -178,8 +176,6 @@ while opcao != 3:
     hor()
     print color(desenho(),"blue")
     print color('''
-    
-    
     [1] Configure ngrok.yml
     [2] Start Beef with Ngrok
     [3] Exit script
