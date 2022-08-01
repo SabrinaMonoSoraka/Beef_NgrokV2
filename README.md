@@ -10,6 +10,7 @@
 - Beef-xss 0.5.4.0
 - Apache
 - gnome-terminal
+- python2
 
 # commands
 
@@ -20,12 +21,12 @@ git clone https://github.com/SabrinaMonoSoraka/Beef_NgrokV2
 ## setup
 
 ```
-chmod +x setup.py && python setup.py
+chmod +x setup.py && python2 setup.py
 ```
 
 ## main
 
 ```
-python main.py
+python2 main.py
 ```
 
