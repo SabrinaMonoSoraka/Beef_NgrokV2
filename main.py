@@ -162,6 +162,7 @@ def finalizando():
     '''
 
 hor()
+print color("do not run main.py in root mode","red")
 print color(h1(),"yellow")
 print color('''         http 80/ Victim
          http 3000/ Attacker''',"red")
