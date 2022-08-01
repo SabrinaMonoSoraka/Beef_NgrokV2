@@ -84,7 +84,7 @@ def redsocial():
     return"""
 
     YouTube: https://www.youtube.com/channel/UCK9-ey3ELCm-EnHeyovvXWw
-    Discord: .png#6667
+    Discord: Goth#6666
 
 
     """
@@ -238,6 +238,7 @@ while opcao != 3:
             print("")
             print color("attacker panel","yellow")
             print color(atacante_painel,"red")
+            print color('http://127.0.0.1:3000/ui/panel',"red")
             print("")
             print color ("send it to your victim","yellow")
             print color(vitima_full,"red")
