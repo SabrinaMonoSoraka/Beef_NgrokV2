@@ -10,7 +10,7 @@
 - Beef-xss 0.5.4.0
 - Apache
 - gnome-terminal
-- python2
+- python 2
 
 # commands
 
