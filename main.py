@@ -84,7 +84,7 @@ def redsocial():
     return"""
 
     YouTube: https://www.youtube.com/channel/UCK9-ey3ELCm-EnHeyovvXWw
-    Discord: Goth#6666
+    Discord: .png#0796
 
 
     """
